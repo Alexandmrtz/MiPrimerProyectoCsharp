@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\PrograI-Semi-2025\PrimerProyectoCsharp\PrimerProyectoCsharp\bin\Debug\PrimerProyectoCsharp.exe.config
+C:\Users\DELL\Desktop\PrograI-Semi-2025\PrimerProyectoCsharp\PrimerProyectoCsharp\bin\Debug\PrimerProyectoCsharp.exe
+C:\Users\DELL\Desktop\PrograI-Semi-2025\PrimerProyectoCsharp\PrimerProyectoCsharp\bin\Debug\PrimerProyectoCsharp.pdb
+C:\Users\DELL\Desktop\PrograI-Semi-2025\PrimerProyectoCsharp\PrimerProyectoCsharp\obj\Debug\PrimerProyectoCsharp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PrograI-Semi-2025\PrimerProyectoCsharp\PrimerProyectoCsharp\obj\Debug\PrimerProyectoCsharp.Form1.resources
+C:\Users\DELL\Desktop\PrograI-Semi-2025\PrimerProyectoCsharp\PrimerProyectoCsharp\obj\Debug\PrimerProyectoCsharp.Properties.Resources.resources
+C:\Users\DELL\Desktop\PrograI-Semi-2025\PrimerProyectoCsharp\PrimerProyectoCsharp\obj\Debug\PrimerProyectoCsharp.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PrograI-Semi-2025\PrimerProyectoCsharp\PrimerProyectoCsharp\obj\Debug\PrimerProyectoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PrograI-Semi-2025\PrimerProyectoCsharp\PrimerProyectoCsharp\obj\Debug\PrimerProyectoCsharp.exe
+C:\Users\DELL\Desktop\PrograI-Semi-2025\PrimerProyectoCsharp\PrimerProyectoCsharp\obj\Debug\PrimerProyectoCsharp.pdb
+C:\Users\DELL\Desktop\PrograI-Semi-2025\PrimerProyectoCsharp\PrimerProyectoCsharp\obj\Debug\PrimerProyectoCsharp.exe.config

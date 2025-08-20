@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\PrograI-Semi-2025\Actv2Csharp\Actv2Csharp\bin\Debug\Actv2Csharp.exe.config
+C:\Users\DELL\Desktop\PrograI-Semi-2025\Actv2Csharp\Actv2Csharp\bin\Debug\Actv2Csharp.exe
+C:\Users\DELL\Desktop\PrograI-Semi-2025\Actv2Csharp\Actv2Csharp\bin\Debug\Actv2Csharp.pdb
+C:\Users\DELL\Desktop\PrograI-Semi-2025\Actv2Csharp\Actv2Csharp\obj\Debug\Actv2Csharp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PrograI-Semi-2025\Actv2Csharp\Actv2Csharp\obj\Debug\Actv2Csharp.Form1.resources
+C:\Users\DELL\Desktop\PrograI-Semi-2025\Actv2Csharp\Actv2Csharp\obj\Debug\Actv2Csharp.Properties.Resources.resources
+C:\Users\DELL\Desktop\PrograI-Semi-2025\Actv2Csharp\Actv2Csharp\obj\Debug\Actv2Csharp.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PrograI-Semi-2025\Actv2Csharp\Actv2Csharp\obj\Debug\Actv2Csharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PrograI-Semi-2025\Actv2Csharp\Actv2Csharp\obj\Debug\Actv2Csharp.exe
+C:\Users\DELL\Desktop\PrograI-Semi-2025\Actv2Csharp\Actv2Csharp\obj\Debug\Actv2Csharp.pdb
+C:\Users\DELL\Desktop\PrograI-Semi-2025\Actv2Csharp\Actv2Csharp\obj\Debug\Actv2Csharp.exe.config

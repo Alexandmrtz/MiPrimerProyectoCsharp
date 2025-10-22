@@ -1,0 +1,14 @@
+C:\Users\Alex\Downloads\Gestion\bin\Debug\net9.0-windows\GestionDocentes.exe
+C:\Users\Alex\Downloads\Gestion\bin\Debug\net9.0-windows\GestionDocentes.deps.json
+C:\Users\Alex\Downloads\Gestion\bin\Debug\net9.0-windows\GestionDocentes.runtimeconfig.json
+C:\Users\Alex\Downloads\Gestion\bin\Debug\net9.0-windows\GestionDocentes.dll
+C:\Users\Alex\Downloads\Gestion\bin\Debug\net9.0-windows\GestionDocentes.pdb
+C:\Users\Alex\Downloads\Gestion\obj\Debug\net9.0-windows\GestionDocentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Downloads\Gestion\obj\Debug\net9.0-windows\GestionDocentes.AssemblyInfoInputs.cache
+C:\Users\Alex\Downloads\Gestion\obj\Debug\net9.0-windows\GestionDocentes.AssemblyInfo.cs
+C:\Users\Alex\Downloads\Gestion\obj\Debug\net9.0-windows\GestionDocentes.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\Gestion\obj\Debug\net9.0-windows\GestionDocentes.dll
+C:\Users\Alex\Downloads\Gestion\obj\Debug\net9.0-windows\refint\GestionDocentes.dll
+C:\Users\Alex\Downloads\Gestion\obj\Debug\net9.0-windows\GestionDocentes.pdb
+C:\Users\Alex\Downloads\Gestion\obj\Debug\net9.0-windows\GestionDocentes.genruntimeconfig.cache
+C:\Users\Alex\Downloads\Gestion\obj\Debug\net9.0-windows\ref\GestionDocentes.dll

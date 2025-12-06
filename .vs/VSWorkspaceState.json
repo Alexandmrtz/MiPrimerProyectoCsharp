@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplication1",
+    "\\WebApplication1\\WebApplication1",
+    "\\WebApplication1\\WebApplication1\\Views",
+    "\\WebApplication1\\WebApplication1\\Views\\Admin",
+    "\\WebApplication1\\WebApplication1\\Views\\Docente",
+    "\\WebApplication1\\WebApplication1\\Views\\Shared",
+    "\\WebApplication1\\WebApplication1\\wwwroot\\css",
+    "\\WebApplication1\\WebApplication1\\wwwroot\\formulario-de-matricula-main",
+    "\\WebApplication1\\WebApplication1\\wwwroot\\formulario-de-matricula-main\\assets"
+  ],
+  "SelectedNode": "\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

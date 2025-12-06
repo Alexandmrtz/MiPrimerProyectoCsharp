@@ -10,7 +10,7 @@ Aquí el licenciado podrá encontrar, en las distintas ramas, todas mis contribu
 
 Este repositorio refleja mi crecimiento, tanto técnico como personal.
 Viniendo del trabajo en las noches, sentarme a programar ha sido un verdadero reto… pero también una aventura que me ha gustado bastante.
-(No importa si descuentan puntos 😅 yo subía actualizaciones conforme iba mejorando mi sistema; al inicio no entendía bien cómo funcionaba GitHub, pero aquí estamos aprendiendo.)
+(No importa si descuentan puntos 😅 yo subía actualizaciones conforme iba mejorando mi sistema al inicio no entendía bien cómo funcionaba GitHub, pero aquí estamos aprendiendo.)
 
 🎯 Proyecto Final – Tecnologías y Herramientas
 
